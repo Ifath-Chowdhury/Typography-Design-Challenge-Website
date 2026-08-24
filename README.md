@@ -55,3 +55,6 @@ I was given an image with a design to be replicated. The objective of this proje
 ---
 
 ## Credits
+
+Developer: Ifath Chowdhury
+GitHub: https://github.com/Ifath-Chowdhury
