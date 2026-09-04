@@ -19,9 +19,10 @@ Live Demo: https://typography-design-challenge-website.vercel.app/
 ---
 
 ## Overview
+As part of the ITOnlineLearning HTML and Web essentials programme, I was tasked with completing several coding projects. One of them was to create a simple website that has varied and visually interesting typography using HTML and CSS.
 
 ### Motivation
-As part of the ITOnlineLearning HTML and Web essentials programme, I was tasked with completing several coding projects. One of them was to create a simple website that has varied and visually interesting typography using HTML and CSS.
+The design shown in the design-to-copy.png served as inspiration as I was tasked with replicating that design.
 
 ### Objective
 I was given an image with a design to be replicated. The objective of this project was to replicate the design shown in that image as best as possible.
