@@ -4,6 +4,8 @@ A website with visually interesting typography made for the ITOnlineLearning HTM
 
 Live Demo: https://typography-design-challenge-website.vercel.app/
 
+<img src="typography-sc1.png" alt="Screenshot of the main page">
+
 ---
 
 ## Table of Contents
@@ -46,6 +48,8 @@ I was given an image with a design to be replicated. The objective of this proje
 ---
 
 ## Screenshots
+
+<img src="typography-sc1.png" alt="Screenshot of the main page">
 
 ---
 
